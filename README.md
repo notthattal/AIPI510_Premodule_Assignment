@@ -8,12 +8,12 @@ This project uses a CSV of NBA player statistics from the 2022-2023 regular seas
 ### 1. Clone the repository
 Open a terminal on your local machine and run the following command:
 ```
-git clone https://github.com/notthattal/AIPI_510_Premodule_Assignment.git
+git clone https://github.com/notthattal/AIPI510_Premodule_Assignment.git
 ```
  ### 2. Change your current directory to the project's directory
  In the same terminal type:
  ```
- cd AIPI_510_Premodule_Assignment
+ cd AIPI510_Premodule_Assignment
 ```
 ### 3. Create and activate the Python virtual environment
 For Windows Users:
